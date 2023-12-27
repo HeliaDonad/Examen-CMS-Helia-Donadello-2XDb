@@ -1,0 +1,22 @@
+dateModified: 1703693439
+email:
+  fromEmail: r0936750@student.thomasmore.be
+  fromName: DrankenParadijs
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    c37ace6c-712f-445c-a6de-979eacdfe064: DrankenParadijs # DrankenParadijs
+    e0c291b9-58c2-4087-bc60-8be4a0166e71: DrankenParadijs # DrankenParadijs
+    e9889197-129f-4a9b-a4ef-e011291b2fb3: Common # Common
+system:
+  edition: solo
+  live: true
+  name: DrankenParadijs
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
